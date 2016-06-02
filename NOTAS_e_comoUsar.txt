@@ -1,0 +1,27 @@
+EQUIPE:
+
+Caio Marcus Oliveira de Almeida  - 13005 
+Claudio Cavalcante Bomfim Junior - 13007
+THOMAS Rincon Reis               - 13429
+
+-----------------------------------------------------------------------
+
+1) Colocar todo o diretorio "trabLabProg3" na pasta do servidor TOMCAT!
+	Mais especificamente em: "[apache tomcat]\webapps"
+
+
+2) Utilizar o PostgreSQL 9.4 na porta 5432, e criar banco de dados con-
+	forme as especificacoes contidas em ".\BD\NOTAS_BD.txt"
+
+
+3) A API Google Predictions não foi implementada.
+
+-----------------------------------------------------------------------
+
+COMO FOI TESTADO:
+
+	4) Inicializar Servidor TomCat pela prompt de commando do Win-
+		dows 10;
+
+	5) No seu Navegador (Browser) escrever URL:
+		"http://127.0.0.1:[porta do TomCat]/trabLabProg3"
