@@ -1,0 +1,13 @@
+1) Criar um Banco de Dados com o nome "Cotacoes";
+
+2) Abrir janela de script em SQL (em "execução de consultas SQL arbitrá-
+	rias");
+
+3) Copiar os arquivos "table_*.csv" para "C:\";
+
+4) Executar os 2 scripts "BD1.sql", e depois o "BD2.sql";
+
+
+OBS*.: Se o usuário não possuir drive C:, deverá fazer as devidas mu-
+	danças nas linhas de caminho absoluto em "BD2.sql"; que estão
+	nas instruções "COPY ... FROM []".

@@ -1,0 +1,23 @@
+sigla final é para sigla da ação:
+
+http://www.bmfbovespa.com.br/pt_br/servicos/market-data/cotacoes/?tvwidgetsymbol=EMBR3
+
+https://br.financas.yahoo.com/q?s=EMBR3&ql=1
+
+Siglas de algumas ações:		links para pegar os arquivos csv (de 01/01/2016 a 30/04/2016):							pag de resumo do dia:
+
+ESTC3
+CCRO3
+HGTX3
+SANB11
+ECOR3
+EMBR3			-	http://real-chart.finance.yahoo.com/table.csv?s=EMBR3.SA&a=00&b=1&c=2000&d=04&e=17&f=2016&g=d&ignore=.csv		https://br.financas.yahoo.com/q?s=EMBR3.SA
+CESP6
+CMIG4
+BVMF3
+KLBN11
+VALE5
+ITUB4
+PETR4			-	http://real-chart.finance.yahoo.com/table.csv?s=PETR4.SA&a=00&b=1&c=2000&d=04&e=17&f=2016&g=d&ignore=.csv		https://br.financas.yahoo.com/q?s=PETR4.SA
+ABEV3
+BBDC4
